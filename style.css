@@ -23,7 +23,7 @@ height: 100%;
 
 }
 .popup{
-  font-family: Arial;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   width: 100%;
   max-width: 300px;
